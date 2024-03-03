@@ -1,0 +1,11 @@
+{
+    "name": "rescript-dynamic-import-bug",
+    "sources": [
+        "src"
+    ],
+    "package-specs": {
+        "module": "es6",
+        "in-source": true,
+        "suffix": ".js"
+    }
+}
